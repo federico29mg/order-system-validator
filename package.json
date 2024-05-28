@@ -1,6 +1,6 @@
 {
   "name": "order-system-validator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": {
     "type": "git",
     "url": "https://github.com/federico29mg/order-system-validator"
@@ -21,7 +21,7 @@
   "author": "Federico Montoya",
   "license": "ISC",
   "description": "Order System Validator",
-  "devDependencies": {
+  "dependencies": {
     "node-cache": "^5.1.2",
     "ts-node": "^10.9.2",
     "tsup": "^8.0.2",
